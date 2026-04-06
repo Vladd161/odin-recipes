@@ -9,4 +9,6 @@ Skills I have learnt after finishing this:
         -lists
         -images
         -links 
+
+Link to the Github Page: https://vladd161.github.io/odin-recipes/
     
