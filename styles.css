@@ -2,9 +2,6 @@
     background-color: antiquewhite;
 }
 
-.recipe-parent{
-    margin: 0 auto;
-}
 .recipe-parent li{
     display: inline-block;
     text-align: center;
@@ -14,6 +11,7 @@ img{
     height: 200px;
     width:200px;
 }
+
 h1{
     text-align: center;
 }
