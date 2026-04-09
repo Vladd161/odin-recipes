@@ -1,6 +1,12 @@
+*{
+    background-color: antiquewhite;
+}
 .recipe-parent li{
     display: inline;
-    text-align: center;
+}
+
+.recipe-parent li img{
+    display: block;
 }
 
 h1{
